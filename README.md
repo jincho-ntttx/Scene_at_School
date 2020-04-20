@@ -25,6 +25,8 @@ Document Author：Takahiro Jincho(NTT TechnoCross Corporation)
 
 - Scratch 3.0を起動後、![Common](figure/common/plugin.png)をクリックしてください。
 
+    After launching Scratch 3.0, click on ![Common](figure/common/plugin.png).
+
 ![Common](figure/common/scratch_startup_screen.png)
 
 - 音声合成と翻訳を追加してください。
