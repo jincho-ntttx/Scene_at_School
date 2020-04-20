@@ -275,9 +275,3 @@ Press the + button on the list and set the "Good morning" and "I forget…" and 
     Connect the blocks.
 
 ![Frank](figure/frank/frank_program4.png)
-
-- 最後に、プログラムを保存してください。
-
-    Finally, save the program.
-
-![Common](figure/common/save.png)

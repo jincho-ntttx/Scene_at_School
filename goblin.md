@@ -253,9 +253,3 @@ Press the + button on the list and set the "Good morning" and "Did you do your h
     Connect the blocks.
 
 ![Goblin](figure/goblin/goblin_program3.png)
-
-- 最後に、プログラムを保存してください。
-
-    Finally, save the program.
-
-![Common](figure/common/save.png)

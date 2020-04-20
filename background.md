@@ -27,9 +27,3 @@
 - これでプログラムは完成です。
 
     The program is complete.
-
-- 最後に、プログラムを保存してください。
-
-    Finally, save the program.
-
-![Common](figure/common/save.png)

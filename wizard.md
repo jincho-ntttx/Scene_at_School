@@ -199,9 +199,3 @@ Press the + button on the list and set the "Let's the start the class!" settings
     Connect the blocks.
 
 ![Wizard](figure/wizard/teacher_program2.png)
-
-- 最後に、プログラムを保存してください。
-
-    Finally, save the program.
-
-![Common](figure/common/save.png)
